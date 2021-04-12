@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mmessiter
+- 👀 I’m interested in Teensy 4 plus nRF24L01 radio control system for model aircraft
+- 🌱 I’m currently learning a lot - and test flying prototypes in model helicopters.
+- 💞️ I’m looking to collaborate on PID stabilisation, autonomy, GPS ...
+- 📫 How to reach me ...mmessiter@gmail.com
